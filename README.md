@@ -16,8 +16,6 @@ Use this project to check whether username is available on various popular websi
 * Github
 * Gitlab
 
-**Keep an eye on [changelog] (CHANGELOG)**
-
 # [Contribution guideline for this project] (CONTRIBUTING.md)
 
 # License
