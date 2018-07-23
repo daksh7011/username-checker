@@ -27,8 +27,8 @@ class social_existence {
         array('domain' => 'patreon.com',       'url' => 'https://www.{domain}/{username}',         'agent' => 'chrome'),
         array('domain' => 'youtube.com',       'url' => 'https://www.{domain}/user/{username}',    'agent' => 'chrome'),
         array('domain' => 'imgur.com',         'url' => 'https://{username}.{domain}/',            'agent' => 'chrome'),
-        array('domain' => 'github.com',         'url' => 'https://{username}.{domain}/',            'agent' => 'chrome'),
-        array('domain' => 'gitlab.com',         'url' => 'https://{username}.{domain}/',            'agent' => 'chrome'),
+        array('domain' => 'github.com',         'url' => 'https://{domain}/{username}/',            'agent' => 'chrome'),
+        array('domain' => 'gitlab.com',         'url' => 'https://{domain}/{username}',            'agent' => 'chrome'),
 
     );
 
