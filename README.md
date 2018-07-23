@@ -1,19 +1,19 @@
 # Username Checker
-    Use this project to check whether username is available on various popular websites
+Use this project to check whether username is available on various popular websites
 
 # Supported sites
-    *Instagram
-    *Disqus
-    *Pinterest
-    *Codepen
-    *JsFiddle
-    *Twitter
-    *Patreon
-    *Youtube
-    *Imgur
+* Instagram
+* Disqus
+* Pinterest
+* Codepen
+* JsFiddle
+* Twitter
+* Patreon
+* Youtube
+* Imgur
 
 # Contribution guideline for this project
-    > To be added in next commit
+> To be added in next commit
 
 # License
 
