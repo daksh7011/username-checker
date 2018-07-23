@@ -13,13 +13,17 @@ Use this project to check whether username is available on various popular websi
 * Patreon
 * Youtube
 * Imgur
+* Github
+* Gitlab
 
-# Contribution guideline for this project
-> To be added in next commit
+**Keep an eye on [changelog] (CHANGELOG)**
+
+# [Contribution guideline for this project] (CONTRIBUTING.md)
 
 # License
 
 Copyright 2018 Daksh Desai, daksh7011.com
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
