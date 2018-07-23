@@ -14,8 +14,7 @@ Use this project to check whether username is available on various popular websi
 * Youtube
 * Imgur
 
-# Contribution guideline for this project
-> To be added in next commit
+# [Contribution guideline for this project] (CONTRIBUTING.md)
 
 # License
 
