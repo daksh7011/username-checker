@@ -26,5 +26,3 @@ or [Email] (mailto:me@daksh7011.com)
 Pushing instructions will be updated here soon.
 
 Last updated on 07/24/2018:23:15 by [Siddhi](https://gitlab.com/echo-siddhi)
-=======
->>>>>>> 85fc5bc8dff80fba920d6b6bc95c29ff580a224c
