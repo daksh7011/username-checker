@@ -88,16 +88,64 @@ html, body {
    height: 100%;
 }
 
-body {
+/* body {
    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
    font-size: 14px;
    line-height: 24px;
    color: #F5F5F5;
    word-break: break-word;
-   background: #cb2d3e;  /* fallback for old browsers */
-   background: -webkit-linear-gradient(to right, #ef473a, #cb2d3e);
-   background: linear-gradient(to right, #ef473a, #cb2d3e);
+   background: #780206;
+  background: -webkit-linear-gradient(to left, #780206, #061161);
+  background: linear-gradient(to left, #780206, #061161);
+} */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: #F5F5F5;
+  word-break: break-word;
+  background: #780206; /*fallback for oldish browsers*/
+	background: linear-gradient(-45deg, #780206, #061161);
+	background-size: 400% 400%;
+	-webkit-animation: Gradient 15s ease infinite;
+	-moz-animation: Gradient 15s ease infinite;
+	animation: Gradient 15s ease infinite;
+}
 
+@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
 }
 
 div {
@@ -188,6 +236,11 @@ button:hover {
    background: #449C47;
 }
 
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+}
 
 
 /* reuseable classes */
