@@ -1,15 +1,12 @@
-# Contribution Guide
+# Contributing
 
-## Table of Contents
-  * [Contribution Note](#contribution-note)
-  * [Steps to get started](#getting-started)
-
-## Contribution Note
-When contributing to this repository, please first discuss the change you wish
-to make via issue,email, or any other method with the maintainers of this repository
+When contributing to this repository, please first discuss the change you wish 
+to make via issue,email, or any other method with the maintainers of this repository 
 before making a change.
-Alternatively you can also contact maintainer on [Telegram] (https://t.me/daksh7011)
+Alternatively you can also contact maintainer on [Telegram] (https://t.me/daksh7011) 
+or [Email] (mailto:me@daksh7011.com)
 >NOTE: Always push to **dev** branch and create merge request afterwards.
+<<<<<<< HEAD
 
 ## Getting Started
   Follow steps below to get started with development or contribution.
@@ -29,3 +26,5 @@ Alternatively you can also contact maintainer on [Telegram] (https://t.me/daksh7
 Pushing instructions will be updated here soon.
 
 Last updated on 07/24/2018:23:15 by [Siddhi](https://gitlab.com/echo-siddhi)
+=======
+>>>>>>> 85fc5bc8dff80fba920d6b6bc95c29ff580a224c
