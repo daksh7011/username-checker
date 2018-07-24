@@ -1,4 +1,12 @@
-23-July-2018
-    -added initial fully working project
-23-July-2018
-    -added support for Github and Gitlab
+*  23-July-2018 (Daksh)
+    > added initial fully working project
+
+*  23-July-2018 (Daksh)
+    > added support for Github and Gitlab
+
+*  24-July-2018 (Siddhi)
+    > Several changes to the UI
+    > Updated styles and optimized class
+    > Added footer with repository link and other informations
+    > Added animated gradient for background
+    > Some misc tweaks here n there.
