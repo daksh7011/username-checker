@@ -3,6 +3,8 @@ Use this project to check whether username is available on various popular websi
 
 ## [Demo] (https://daksh7011.com/demo/existance/)
 
+**Keep an eye on [changelog](CHANGELOG)**
+
 # Supported sites
 * Instagram
 * Disqus
@@ -16,7 +18,6 @@ Use this project to check whether username is available on various popular websi
 * Github
 * Gitlab
 
-**Keep an eye on [changelog] (CHANGELOG)**
 
 # [Contribution guideline for this project] (CONTRIBUTING.md)
 
@@ -36,4 +37,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-    
