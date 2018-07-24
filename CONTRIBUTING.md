@@ -28,4 +28,4 @@ Alternatively you can also contact maintainer on [Telegram] (https://t.me/daksh7
 
 Pushing instructions will be updated here soon.
 
-Last updated on 07/24/2018:22:15 by [Siddhi](https://gitlab.com/echo-siddhi)
+Last updated on 07/24/2018:23:15 by [Siddhi](https://gitlab.com/echo-siddhi)
