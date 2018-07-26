@@ -29,6 +29,8 @@ class social_existence {
         array('domain' => 'imgur.com',         'url' => 'https://{username}.{domain}/',            'agent' => 'chrome'),
         array('domain' => 'github.com',         'url' => 'https://{domain}/{username}/',            'agent' => 'chrome'),
         array('domain' => 'gitlab.com',         'url' => 'https://{domain}/{username}',            'agent' => 'chrome'),
+        array('domain' => 'pastebin.com',      'url' => 'https://{domain}/u/{username}',           'agent' => 'chrome'),
+        array('domain' => 'reddit.com',        'url' => 'https://www.{domain}/user/{username}',    'agent' => 'chrome'),
 
     );
 

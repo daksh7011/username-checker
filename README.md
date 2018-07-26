@@ -17,6 +17,8 @@ Use this project to check whether username is available on various popular websi
 * Imgur
 * Github
 * Gitlab
+* Reddit
+* Pastebin
 
 # [Contribution guideline for this project] (CONTRIBUTING.md)
 
