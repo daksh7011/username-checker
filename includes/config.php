@@ -6,7 +6,7 @@ define('PATH_INCLUDES', PATH_ABSOLUTE . 'includes/');
 
 require_once(PATH_INCLUDES . 'social.existence.class.php');
 
-$website['version']  = '0.6';
+$website['version']  = '1.2';
 $website['url']      = social_existence::website_url();
 $website['current']  = social_existence::current_url();
 $website['statuses'] = social_existence::$statuses;

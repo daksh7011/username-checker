@@ -31,6 +31,11 @@ class social_existence {
         array('domain' => 'gitlab.com',         'url' => 'https://{domain}/{username}',            'agent' => 'chrome'),
         array('domain' => 'pastebin.com',      'url' => 'https://{domain}/u/{username}',           'agent' => 'chrome'),
         array('domain' => 'reddit.com',        'url' => 'https://www.{domain}/user/{username}',    'agent' => 'chrome'),
+        array('domain' => 'twitch.tv',         'url' => 'https://m.{domain}/{username}/profile',   'agent' => 'chrome'),
+        array('domain' => 'fiverr.com',        'url' => 'https://www.{domain}/{username}',         'agent' => 'chrome'),
+        array('domain' => 'ask.fm',            'url' => 'https://{domain}/{username}',             'agent' => 'chrome'),
+        array('domain' => 'medium.com',        'url' => 'https://{domain}/@{username}',            'agent' => 'chrome'),
+        array('domain' => 'flickr.com',        'url' => 'https://www.{domain}/photos/{username}',  'agent' => 'chrome'),
 
     );
 

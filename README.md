@@ -19,6 +19,11 @@ Use this project to check whether username is available on various popular websi
 * Gitlab
 * Reddit
 * Pastebin
+* Twitch
+* Fivver
+* Ask.fm
+* Medium
+* Flicker
 
 # [Contribution guideline for this project] (CONTRIBUTING.md)
 
