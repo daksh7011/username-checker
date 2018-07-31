@@ -50,6 +50,7 @@ class social_existence {
 		array('domain' => 'vid.me',            'url' => 'https://{domain}/{username}',             'agent' => 'chrome'),
 		array('domain' => 'tumblr.com',        'url' => 'http://{username}.{domain}/',             'agent' => 'chrome'),
 
+
 	);
 
 
