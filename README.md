@@ -1,11 +1,12 @@
 # Username Checker
-Use this project to check whether username is available on various popular websites
+Use this project to check whether username is available on various popular websites.
+However results may not be 100% accurate.
+Proudly opensource and dedicated to community.
 
 ## [Demo] (https://daksh7011.com/demo/existance/)
 
-**Keep an eye on [changelog](CHANGELOG)**
-
 # Supported sites
+There are 31 sites supported by this project
 * Instagram
 * Disqus
 * Pinterest
@@ -24,8 +25,24 @@ Use this project to check whether username is available on various popular websi
 * Ask.fm
 * Medium
 * Flicker
+* Myspace
+* Dribbble
+* Kickstarter
+* About.me
+* Deviantart
+* Gravatar
+* Reverbnation
+* Stream
+* Bandcamp
+* Foursquare
+* Behance
+* vid.me
+
+**Keep an eye on [changelog](CHANGELOG)**
 
 # [Contribution guideline for this project] (CONTRIBUTING.md)
+	You can contribute to this project by adding support to more sites. We have explained everything about each files in [Contrubution Guide] (CONTRIBUTING.md).
+	Feel free to create new issues about this project or to have discussion with maintainers.
 
 # License
 
