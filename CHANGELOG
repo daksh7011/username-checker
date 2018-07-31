@@ -1,0 +1,29 @@
+*  23-July-2018 (Daksh)
+    > added initial fully working project
+
+*  23-July-2018 (Daksh)
+    > added support for Github and Gitlab
+
+*  24-July-2018 (Siddhi)
+    > Several changes to the UI
+    > Updated styles and optimized class
+    > Added footer with repository link and other informations
+    > Added animated gradient for background
+    > Some misc tweaks here n there.
+    
+*   26-July-2018 (Daksh)
+    > added support for pastebin and reddit
+    
+*   27-July-2018 (Daksh)
+    > added support for twitch, fivver, ask.fm, medium and flicker
+    > updated changelog
+    > updated contribution guide
+	
+* 	1-August-2018 (Siddhi)
+	#1
+	> added support for myspace, dribbble, kickstarter, about.me, 
+	deviantart, gravatar, reverbnation, stream, bandcamp, foursquare, behance and vid.me
+	> changelog updated
+	> readme file updated
+	#2
+	> added support for tumbler
