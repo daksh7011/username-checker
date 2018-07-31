@@ -3,7 +3,7 @@ Use this project to check whether username is available on various popular websi
 However results may not be 100% accurate.
 Proudly opensource and dedicated to community.
 
-## [Demo] (https://daksh7011.com/demo/existance/)
+## [Demo](https://daksh7011.com/demo/existance/)
 
 # Supported sites
 There are 31 sites supported by this project
@@ -36,13 +36,13 @@ There are 31 sites supported by this project
 * Bandcamp
 * Foursquare
 * Behance
-* vid.me
+* Vid.me
 
 **Keep an eye on [changelog](CHANGELOG)**
 
-# [Contribution guideline for this project] (CONTRIBUTING.md)
-	You can contribute to this project by adding support to more sites. We have explained everything about each files in [Contrubution Guide] (CONTRIBUTING.md).
-	Feel free to create new issues about this project or to have discussion with maintainers.
+# [Contribution guideline for this project](CONTRIBUTING.md)
+You can contribute to this project by adding support to more sites. We have explained everything about 		each files in [Contrubution Guide](CONTRIBUTING.md).
+Feel free to create new issues about this project or to have discussion with maintainers.
 
 # License
 
