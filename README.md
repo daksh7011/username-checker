@@ -6,7 +6,7 @@ Proudly opensource and dedicated to community.
 ## [Demo](https://daksh7011.com/demo/existance/)
 
 # Supported sites
-There are 31 sites supported by this project
+There are 32 sites supported by this project
 * Instagram
 * Disqus
 * Pinterest
@@ -37,6 +37,7 @@ There are 31 sites supported by this project
 * Foursquare
 * Behance
 * Vid.me
+* Tumbler
 
 **Keep an eye on [changelog](CHANGELOG)**
 
