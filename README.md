@@ -3,6 +3,8 @@ Use this project to check whether username is available on various popular websi
 However results may not be 100% accurate.
 Proudly opensource and dedicated to community.
 
+**This project is being actively developed on Gitlab. Github repo is just a mirror of original repo on Gitlab In addition this repo can be obsolete in compare to repo on gitlab.**
+
 ## [Demo](https://daksh7011.com/demo/existance/)
 
 # Supported sites
